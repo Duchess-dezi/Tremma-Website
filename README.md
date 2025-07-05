@@ -1,12 +1,24 @@
-# React + Vite
+TREMMA AGRO HUB
+A modern, responsive website for an Tremma Agro Hub, built using React, JavaScript, and Tailwind CSS. The site showcases the company’s services, products, and commitment to supporting farmers and sustainable agriculture.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Features
+ Responsive design for mobile, tablet, and desktop
 
-Currently, two official plugins are available:
+ Clean navigation with smooth scrolling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Hero section with call-to-action
 
-## Expanding the ESLint configuration
+ Who we are, What we do, Our staff sections and our Trecco app which serves as a wallet, loaning app and bookkeepping application for small to large scale farmers to help keep track and analyze their data
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Fast, lightweight styling with Tailwind CSS
+
+Tech Stack
+React – Frontend framework
+
+JavaScript (ES6+) – Programming language
+
+Tailwind CSS – Utility-first CSS framework
+
+License
+MIT License. Feel free to use, modify, and share.
